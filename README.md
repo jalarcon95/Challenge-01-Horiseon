@@ -26,3 +26,5 @@ For this challenge, I was tasked with refactoring the code of Horiseon's website
 ## Website Link
 
 ## Screenshot
+
+![screenshot](/assets/images/horiseon-screenshot.png)
