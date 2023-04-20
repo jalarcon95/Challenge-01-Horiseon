@@ -25,6 +25,8 @@ For this challenge, I was tasked with refactoring the code of Horiseon's website
 
 ## Website Link
 
+https://jalarcon95.github.io/Challenge-01-Horiseon/
+
 ## Screenshot
 
 ![screenshot](/assets/images/horiseon-screenshot.png)
